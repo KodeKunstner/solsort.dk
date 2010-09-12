@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    line-height: 130%;
+    margin: 5% 10% 10% 10%;
+}
+img.portrait {
+    height: 20ex;
+    width: 16ex;
+    margin: 0 3ex 2ex 0;
+    float: left;
+}
+div {
+margin: 1ex 0 1ex 0;
+}
+div.small {
+    font-size:80%;
+    line-height: 120%;
+    text-align: justify;
+}
+div.large {
+    font-size: 120%;
+}
