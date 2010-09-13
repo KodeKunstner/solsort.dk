@@ -1,0 +1,54 @@
+Overview work and studies
+
+2006-now Freelance at solsort.dk
+2009-now Software development at DBC
+2010-now Studies at RUC
+2007-2010 Course design and Teaching at University of Copenhagen
+2009 Master degree in Computer Science
+2007-2008 Project management and software development at Copenhagen Main Library
+2007-2008 Software development at Tetraplan
+2006 Teaching at University of Copenhagen
+2005 Bachelor degree in Computer Science (with Mathematics and Information Science)
+2004-2005 System administration, research and software development at Royal School of Library and Information Science
+2002 Teaching at University of Copenhagen
+2001 Software development at University of Copenhagen
+
+Work experience
+
+- University of Copenhagen
+2009-2010 grundat
+2007-2008 SaSt3
+2006 1.årsprojekt
+2002 Monster
+2001 Tempo
+
+- DBC
+spidermonkey, scrum, tdd, presentation
+
+- solsort.dk / freelance
+photography, tango teaching, usability consultant, presentation, digitisation
+
+- Cph Main Library
+project management, workflow
+
+- Tetraplan
+software development computational kernel, optimisation
+
+- RSLIS
+research, software development, system administration
+
+Studies
+- RUC
+mobile third world
+group work, project based, social science
+- M.Sc.
+mobile ecmascript dialect
+- B.Sc.
+math+cs+library, data compression
+
+Other
+- 2003-now Argentine tango
+- 2010-now couchsurfing, interrail
+- 2003-now Mensa
+- 2009-2010 Toastmasters
+- 2004,2005 Folkehøjskole
