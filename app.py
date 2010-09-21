@@ -19,10 +19,10 @@ def readStaticFile(fname):
 
 def simplebody():
     return '<div><img class="portrait" src="static/rasmuserik.jpg" alt="portrait" /></div>' \
-        + content.address \
-        + '<div class="small">' \
-        + content.keywords \
-        + '</div>'
+        + content.address #\
+        #+ '<div class="small">' \
+        #+ content.keywords \
+        #+ '</div>'
 
 def footer():
     return '</body></html>'
